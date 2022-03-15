@@ -1,3 +1,10 @@
+shared-mime-info (1.10-1+revpi10+1) buster; urgency=medium
+
+  * Add 0003-build-enable-large-file-support-LFS.patch
+  * Add 0004-workaround-to-pass-local-test.patch
+
+ -- Zhi Han <z.han@kunbus.com>  Tue, 15 Mar 2022 11:03:14 +0100
+
 shared-mime-info (1.10-1) unstable; urgency=medium
 
   * New upstream release.
